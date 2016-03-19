@@ -1,2 +1,2 @@
 # WExplorer
-Web Explorer for medi files
+Web Explorer for media files

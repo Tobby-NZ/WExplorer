@@ -64,7 +64,7 @@
         </a>
         <span class="app-bar-divider"></span>
         <ul class="app-bar-menu">
-            <li><a href="">WExplorer</a></li>
+            <li><a href="./">WExplorer</a></li>
             <!--
             <li>
                 <a href="" class="dropdown-toggle">Products</a>
